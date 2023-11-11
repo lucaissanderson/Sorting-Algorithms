@@ -1,4 +1,4 @@
-# Assignment 3: Putting Your Affairs in Order
+# Putting Your Affairs in Order
 
 ## Files:
 
